@@ -58,7 +58,7 @@ function App() {
         <div className="hero__wash" />
         <nav className="nav" aria-label="Primary navigation">
           <a className="brand" href="#top">Katrina <span>Coffee</span></a>
-          <div className="nav__links"><a href="#menu">Menu</a><a href="#story">Our story</a><a href="#visit">Visit</a></div>
+          <div className="nav__links"><a href="#menu">Menu</a><a href="#story">Our story</a><a href="/events">Events</a><a href="#visit">Visit</a></div>
         </nav>
         <motion.div
           className="hero__content"
